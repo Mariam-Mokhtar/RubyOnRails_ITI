@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  name: Mariam
+  email: Mariam@gmail.com
+  encrypted_password: password1
+
+two:
+  id: 2
+  name: Mokhtar
+  email: Mokhtar@gmail.com
+  encrypted_password: password2
